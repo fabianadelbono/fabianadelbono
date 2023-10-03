@@ -1,11 +1,12 @@
 ### Hi there 👋
-
+-  I'm a people-oriented bioengineer, currently on my PhD studies in Electronics
+- 📫 How to reach me: [fabiana.delbono@polito.it](mailto:fabiana.delbono@polito.it?subject=GitHub_Contact)
 <!--
 **fabianadelbono/fabianadelbono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on active implantable medical device  
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
